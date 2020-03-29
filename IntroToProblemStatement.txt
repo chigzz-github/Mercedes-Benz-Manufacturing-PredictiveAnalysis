@@ -1,0 +1,7 @@
+Every year, Mercedes makes nearly 2000 patents of their cars. Their customers have a huge selection of features and options, by which they can choose their own customized Mercedes-Benz car. To ensure the safety for each unique customized configuration before the car hit the road, Mercedes has developed the robust testing system such that any particular feature doesnt stop functioning. But time taken for testing system for so many feature combination is complex and time consuming.
+Diamler(Mercedes) had given the business question to the analysts, to help them reduce the bench time for the cars. 
+So, what is bench time?
+A bench test is an operating test carried out on just an engine or other major part removed from a car.
+
+Prerak and I have worked to tackle the dimensionality and reduce the time that cars spend on the test bench. 
+
